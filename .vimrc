@@ -232,4 +232,4 @@ if executable('ag')
 endif
 
 " クリップボードを使用
-set clipboard=unnamed, autosselect
+set clipboard=unnamed,autoselect
